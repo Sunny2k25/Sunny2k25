@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunny Jaiswal
 - 👀 I’m interested in new innovative technology.
-- 🌱 I’m currently learning new technology.
+- 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on project base on blockchain and Flutter.
 - 📫 you reach me on linkedin-linkedin.com/in/sunny-jaiswal-9996011b7
 
